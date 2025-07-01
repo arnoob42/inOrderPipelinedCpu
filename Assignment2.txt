@@ -1,0 +1,5 @@
+The second assignment is to create a fully pipelined version of the processor in https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html.
+Default: Use the Logisim-based single-cycle processor. Extend it to realize a fully pipelined 5-stage processor with forwarding, load-use hazard detection, and
+control-hazard detection (+branch_lock). No need to add exception support. Do it in groups of two. We will run large assembly codes on it. The site has a pointer to a SimpleRisc assembler. Use that. Start the assignment RIGHT NOW.
+If you implement the same in Verilog/VHDL (single-person group), we will give you hefty bonus marks.
+
