@@ -1,10 +1,5 @@
 # INORDERPIPELINEDCPU
 
-*Unleashing Seamless Performance Through Intelligent Pipelining*
-
-![Last Commit](https://img.shields.io/github/last-commit/arnoob42/inOrderPipelinedCpu?style=flat&logo=git&logoColor=white&color=0080ff)
-![Top Language](https://img.shields.io/github/languages/top/arnoob42/inOrderPipelinedCpu?style=flat&color=0080ff)
-![Language Count](https://img.shields.io/github/languages/count/arnoob42/inOrderPipelinedCpu?style=flat&color=0080ff)
 
 *Built with the tools and technologies:*  
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white)
